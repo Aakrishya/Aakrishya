@@ -1,136 +1,101 @@
-<h1 align="center">Hi 👋, I'm Aakrishya</h1>
-<h3 align="center">Full-Stack Developer | Backend & Real-Time Systems</h3>
+<h1 align="center">Hi, I'm Aakrishya</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Backend+%7C+Real-Time+Systems+%7C+Machine+Learning;Building+Projects+for+Internships+and+Placements"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Aspiring+Full-Stack+Developer;Backend+%7C+Real-Time+Systems+%7C+Machine+Learning;Building+practical+projects+for+internships+and+placements" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Aakrishya">
-    <img src="https://img.shields.io/badge/GitHub-Aakrishya-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-Aakrishya-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/aakrishyamishra">
-    <img src="https://img.shields.io/badge/LinkedIn-Aakrishya%20Mishra-0A66C2?style=for-the-badge&logo=linkedin"/>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:aakrishya321mishra@gmail.com">
-    <img src="https://img.shields.io/badge/Email-aakrishya321mishra@gmail.com-EA4335?style=for-the-badge&logo=gmail"/>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Aakrishya&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=Aakrishya&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## About Me
 
-I am an aspiring **Full-Stack Developer** focused on building **real-world software systems**.  
-I enjoy designing **scalable backend architectures**, developing **real-time platforms**, and solving practical problems with technology.
+I am an aspiring full-stack developer focused on building practical software systems with clean backend architecture, responsive dashboards, and data-driven features. I enjoy working on projects that combine APIs, databases, real-time communication, and applied machine learning.
 
-- 🔭 Currently building **production-style full-stack projects**
-- ⚙️ Interested in **system design and monitoring platforms**
-- 📚 Learning **scalable backend architecture**
-- 🎯 Preparing for **software engineering internships**
+- Focused on backend development, full-stack applications, and real-world project building
+- Interested in system design, monitoring platforms, and intelligent software solutions
+- Building a strong portfolio for internships, placements, and software roles
 
 ---
 
-# 🛠 Tech Stack
+## Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,express,postgres,prisma,docker,git,github,html,css,bootstrap"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,vite,nodejs,express,postgres,prisma,docker,git,github,html,css" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## Featured Projects
 
-## VoltGuard EV | EV Monitoring System
-
-A **full-stack EV battery monitoring platform** designed for real-time telemetry tracking and battery health monitoring.
+### VoltGuard EV | EV Monitoring System
+A production-style full-stack EV battery monitoring platform built for real-time telemetry tracking, battery parameter analysis, alert generation, and live dashboard visualization.
 
 **Highlights**
-
-- JWT authentication & role-based access
-- Telemetry ingestion APIs for EV battery data
-- Rule-based alert engine
-- Real-time updates with Socket.IO
-- PostgreSQL with Prisma ORM
+- JWT authentication and role-based access
+- Telemetry ingestion pipeline for EV battery/device data
+- Rule-based alert engine for SOC, temperature, voltage, and insulation risk
+- Live updates using Socket.IO
+- PostgreSQL with Prisma for structured relational data
 
 **Tech Stack**
-
 `React` `TypeScript` `Node.js` `Express` `PostgreSQL` `Prisma` `Socket.IO`
 
 ---
 
-## UPI Fraud Detection System
-
-A **machine learning project** designed to detect suspicious UPI transactions.
+### UPI Fraud Detection System
+A machine learning project designed to detect suspicious UPI transaction behavior and identify potentially fraudulent activity through data analysis and predictive logic.
 
 **Highlights**
-
-- Fraud risk detection workflow
+- Fraud-risk detection workflow
 - Transaction pattern analysis
-- Machine learning prediction
-- Fintech security use case
+- Machine learning based prediction
+- Practical fintech-focused use case
+- Data-driven insights for suspicious behavior monitoring
 
 **Tech Stack**
-
-`Python` `Pandas` `NumPy` `Scikit-learn`
+`Python` `Machine Learning` `Data Analysis`
 
 ---
 
-# 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Aakrishya&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakrishya&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Aakrishya&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakrishya&layout=compact&theme=github_dark&hide_border=true" height="170" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Aakrishya&theme=github-dark-blue&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=Aakrishya&theme=github-dark-blue&hide_border=true" height="170" />
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## Current Focus
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Aakrishya&theme=algolia&no-frame=true&margin-w=15"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aakrishya&theme=github-dark"/>
-</p>
+- Strengthening backend and database fundamentals
+- Building portfolio-quality full-stack projects
+- Improving problem solving and software engineering skills
+- Preparing for internship and placement opportunities
 
 ---
 
-# 🐍 Contribution Snake
+## Connect With Me
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Aakrishya/Aakrishya/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-# 🎯 Current Focus
-
-- Strengthening backend & database design
-- Building portfolio-level full-stack projects
-- Improving problem solving and system design
-- Preparing for software engineering internships
-
----
-
-# 🤝 Connect With Me
-
-- GitHub → https://github.com/Aakrishya  
-- LinkedIn → https://www.linkedin.com/in/aakrishyamishra  
-- Email → aakrishya321mishra@gmail.com
+- GitHub: [Aakrishya](https://github.com/Aakrishya)
+- LinkedIn: [LinkedIn Profile](YOUR_LINKEDIN_URL)
+- Email: YOUR_EMAIL
