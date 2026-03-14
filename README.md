@@ -97,5 +97,5 @@ A machine learning project designed to detect suspicious UPI transaction behavio
 ## Connect With Me
 
 - GitHub: [Aakrishya](https://github.com/Aakrishya)
-- LinkedIn: [LinkedIn Profile](YOUR_LINKEDIN_URL)
-- Email: YOUR_EMAIL
+- LinkedIn: [LinkedIn Profile](www.linkedin.com/in/aakrishyamishra)
+- Email: aakrishya321mishra@gmai.com
