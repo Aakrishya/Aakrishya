@@ -1,18 +1,19 @@
-<h1 align="center">Hi, I'm Aakrishya</h1>
+<!-- PROFILE HEADER -->
+<h1 align="center">💫 Hi, I'm <span style="color:#58A6FF;">Aakrishya</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Aspiring+Full-Stack+Developer;Backend+%7C+Real-Time+Systems+%7C+Machine+Learning;Building+practical+projects+for+internships+and+placements" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Aspiring+Full-Stack+Developer;Backend+Engineer+%7C+Real-Time+Systems;Fintech+%7C+Monitoring+Platforms+%7C+ML;Building+industry-ready+projects+for+internships+and+placements" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Aakrishya">
-    <img src="https://img.shields.io/badge/GitHub-Aakrishya-181717?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Aakrishya-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
@@ -22,57 +23,63 @@
 
 ---
 
-## About Me
+## 🚀 About Me
 
-I am an aspiring full-stack developer focused on building practical software systems with clean backend architecture, responsive dashboards, and data-driven features. I enjoy working on projects that combine APIs, databases, real-time communication, and applied machine learning.
-
-- Focused on backend development, full-stack applications, and real-world project building
-- Interested in system design, monitoring platforms, and intelligent software solutions
-- Building a strong portfolio for internships, placements, and software roles
+- Backend-first full-stack developer focused on **real-time** dashboards, clean APIs, and robust data models  
+- Interested in system design, monitoring platforms, and intelligent, data-driven products  
+- Currently building a strong portfolio for internships, placements, and software engineering roles  
 
 ---
 
-## Tech Stack
+## 🧠 What I'm Doing Now
+
+- Sharpening backend and database fundamentals (auth, RBAC, transactions, indexing)  
+- Shipping portfolio-grade full-stack projects with real-world use cases  
+- Improving problem solving (DSA) and clean code practices  
+- Exploring production-style monitoring, logging, and alerting flows  
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,vite,nodejs,express,postgres,prisma,docker,git,github,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vite,nodejs,express,postgres,prisma,python,docker,git,github,html,css" />
 </p>
 
 ---
 
-## Featured Projects
+## 🔥 Featured Projects
 
-### VoltGuard EV | EV Monitoring System
-A production-style full-stack EV battery monitoring platform built for real-time telemetry tracking, battery parameter analysis, alert generation, and live dashboard visualization.
+### ⚡ VoltGuard EV – EV Monitoring System
+A production-style EV battery monitoring platform for real-time telemetry, battery analytics, and alerting.
 
-**Highlights**
-- JWT authentication and role-based access
-- Telemetry ingestion pipeline for EV battery/device data
-- Rule-based alert engine for SOC, temperature, voltage, and insulation risk
-- Live updates using Socket.IO
-- PostgreSQL with Prisma for structured relational data
+**Core Features**
+- JWT-based auth with role-based access control  
+- Telemetry ingestion pipeline for EV device/battery data  
+- Rule-based alert engine (SOC, temperature, voltage, insulation risk)  
+- Live dashboard updates via Socket.IO  
+- PostgreSQL + Prisma for structured relational data  
 
-**Tech Stack**
+**Tech**
 `React` `TypeScript` `Node.js` `Express` `PostgreSQL` `Prisma` `Socket.IO`
 
 ---
 
-### UPI Fraud Detection System
-A machine learning project designed to detect suspicious UPI transaction behavior and identify potentially fraudulent activity through data analysis and predictive logic.
+### 🛡️ UPI Fraud Detection System
+A fintech ML project to detect suspicious UPI transactions using behavior and pattern analysis.
 
-**Highlights**
-- Fraud-risk detection workflow
-- Transaction pattern analysis
-- Machine learning based prediction
-- Practical fintech-focused use case
-- Data-driven insights for suspicious behavior monitoring
+**Core Features**
+- Fraud risk scoring workflow  
+- Transaction pattern and anomaly analysis  
+- Machine learning based prediction pipeline  
+- Data-driven insights for suspicious activity monitoring  
 
-**Tech Stack**
-`Python` `Machine Learning` `Data Analysis`
+**Tech**
+`Python` `Pandas` `Scikit-learn` `Data Analysis`
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aakrishya&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="170" />
@@ -85,17 +92,17 @@ A machine learning project designed to detect suspicious UPI transaction behavio
 
 ---
 
-## Current Focus
+## 🐍 Contribution Snake (Animated)
 
-- Strengthening backend and database fundamentals
-- Building portfolio-quality full-stack projects
-- Improving problem solving and software engineering skills
-- Preparing for internship and placement opportunities
+<!-- Follow instructions from Platane/snk repo to enable this -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aakrishya/Aakrishya/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
 
 ---
 
-## Connect With Me
+## 🤝 Connect With Me
 
-- GitHub: [Aakrishya](https://github.com/Aakrishya)
-- LinkedIn: [LinkedIn Profil](www.linkedin.com/in/aakrishyamishra)
-- Email: aakrishya321mishra@gmail.com
+- GitHub: [@Aakrishya](https://github.com/Aakrishya)  
+- LinkedIn: [Profile](YOUR_LINKEDIN_URL)  
+- Email: `YOUR_EMAIL
