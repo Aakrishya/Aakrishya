@@ -1,101 +1,97 @@
-<h1 align="center">Hi, I'm Aakrishya</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Aspiring+Full-Stack+Developer;Backend+%7C+Real-Time+Systems+%7C+Machine+Learning;Building+practical+projects+for+internships+and+placements" alt="Typing SVG" />
+<div align="center">
+
+# Aakrishya
+
+### Full-Stack Developer | Backend Systems | Real-Time Applications | Machine Learning
+
+<p>
+  I build practical software projects with strong backend architecture, clean APIs, responsive dashboards, and data-driven workflows.
 </p>
 
-<p align="center">
+<p>
   <a href="https://github.com/Aakrishya">
-    <img src="https://img.shields.io/badge/GitHub-Aakrishya-181717?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Aakrishya-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  <a href="www.linkedin.com/in/aakrishyamishra">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email" />
+  <a href="mailto:aakrishya321mishra@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=Aakrishya&label=Profile%20Views&color=1f6feb&style=flat-square" />
+
+</div>
+
+---
+
+## Profile Summary
+
+I am an aspiring software developer focused on building end-to-end applications that combine backend engineering, real-time communication, and applied machine learning. My work emphasizes practical architecture, clarity of implementation, and solutions that resemble real production workflows rather than academic demos.
+
+- Interested in backend development, system design, APIs, and scalable application structure
+- Comfortable across frontend, backend, database, and integration layers
+- Building portfolio-grade projects for internships, placements, and software engineering roles
+
+---
+
+## Core Technologies
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aakrishya&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,vite,nodejs,express,postgres,prisma,docker,git,github,html,css&perline=7" />
 </p>
 
 ---
 
-## About Me
+## Featured Work
 
-I am an aspiring full-stack developer focused on building practical software systems with clean backend architecture, responsive dashboards, and data-driven features. I enjoy working on projects that combine APIs, databases, real-time communication, and applied machine learning.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Focused on backend development, full-stack applications, and real-world project building
-- Interested in system design, monitoring platforms, and intelligent software solutions
-- Building a strong portfolio for internships, placements, and software roles
+### VoltGuard EV
+**EV Battery Monitoring System**
 
----
+A production-style full-stack platform for real-time EV battery telemetry monitoring, abnormal condition detection, and live dashboard reporting.
 
-## Tech Stack
+**Key Areas**
+- Secure JWT-based authentication
+- Telemetry ingestion pipeline
+- Rule-based alert engine
+- Real-time updates with Socket.IO
+- PostgreSQL relational modeling with Prisma
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,vite,nodejs,express,postgres,prisma,docker,git,github,html,css" />
-</p>
-
----
-
-## Featured Projects
-
-### VoltGuard EV | EV Monitoring System
-A production-style full-stack EV battery monitoring platform built for real-time telemetry tracking, battery parameter analysis, alert generation, and live dashboard visualization.
-
-**Highlights**
-- JWT authentication and role-based access
-- Telemetry ingestion pipeline for EV battery/device data
-- Rule-based alert engine for SOC, temperature, voltage, and insulation risk
-- Live updates using Socket.IO
-- PostgreSQL with Prisma for structured relational data
-
-**Tech Stack**
+**Stack**
 `React` `TypeScript` `Node.js` `Express` `PostgreSQL` `Prisma` `Socket.IO`
 
----
+</td>
+<td width="50%" valign="top">
 
 ### UPI Fraud Detection System
-A machine learning project designed to detect suspicious UPI transaction behavior and identify potentially fraudulent activity through data analysis and predictive logic.
+**Transaction Risk Analysis Project**
 
-**Highlights**
-- Fraud-risk detection workflow
-- Transaction pattern analysis
-- Machine learning based prediction
-- Practical fintech-focused use case
-- Data-driven insights for suspicious behavior monitoring
+A machine learning-driven project focused on identifying suspicious UPI transaction behavior and supporting fraud-risk detection through structured data analysis.
 
-**Tech Stack**
+**Key Areas**
+- Fraud classification workflow
+- Transaction behavior analysis
+- Risk-oriented prediction logic
+- Data-driven fintech use case
+- Practical ML application design
+
+**Stack**
 `Python` `Machine Learning` `Data Analysis`
 
----
-
-## GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aakrishya&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakrishya&layout=compact&theme=github_dark&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aakrishya&theme=github-dark-blue&hide_border=true" height="170" />
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## Current Focus
+## Engineering Focus
 
-- Strengthening backend and database fundamentals
-- Building portfolio-quality full-stack projects
-- Improving problem solving and software engineering skills
-- Preparing for internship and placement opportunities
-
----
-
-## Connect With Me
-
-- GitHub: [Aakrishya](https://github.com/Aakrishya)
-- LinkedIn: [Aakrishya Mishra](www.linkedin.com/in/aakrishyamishra)
-- Email: aakrishya321mishra@gmail.com
+```text
+Backend APIs        Real-Time Systems        Database Design
+Applied ML          Dashboard Development    Practical Project Architecture
