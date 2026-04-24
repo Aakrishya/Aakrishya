@@ -1,14 +1,35 @@
 # 👋 Hi, I'm Aakrishya
 
-💻 Full-Stack Developer | 🤖 Machine Learning Enthusiast  
-🚀 Passionate about building real-world applications and solving problems with technology  
+<p align="center">
+💻 Full-Stack Developer | 🤖 ML Enthusiast | 🚀 Building Real-World Projects
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-I am a dedicated student developer with a strong interest in full-stack development and machine learning.  
-I enjoy building practical applications, exploring new technologies, and continuously improving my problem-solving and analytical skills.
+I’m Aakrishya, a passionate student who enjoys building web applications and learning modern technologies.  
+I love turning ideas into real projects and continuously improving my programming and analytical skills.
+
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/ayushi-gupta-career/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:your-email@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
@@ -34,37 +55,33 @@ I enjoy building practical applications, exploring new technologies, and continu
 ## 🚀 Key Projects
 
 ### 🛡️ AI-Powered UPI Fraud Detection System  
-Machine learning system for detecting fraudulent transactions using behavioral analysis and real-time risk scoring.
-
-**Tech:** Python, Flask, Scikit-learn, Pandas, NumPy, SQLite  
+ML-based fraud detection using behavioral patterns and real-time risk scoring.  
+**Tech:** Python, Flask, Scikit-learn, SQLite  
 
 ---
 
 ### 🤖 AI Code Reviewer  
-Full-stack application that analyzes GitHub pull requests and generates AI-based code reviews.
-
-**Tech:** Node.js, Express, React, Vite, LLM  
+Full-stack app that analyzes GitHub PRs and generates AI-based feedback.  
+**Tech:** Node.js, Express, React  
 
 ---
 
 ### 📱 Smartphone Addiction ML System  
-Predicts addiction risk based on user behavior with explainable insights and dashboard visualization.
-
-**Tech:** Node.js, Express, React, Logistic Regression  
+Predicts addiction risk with explainable insights and dashboard.  
+**Tech:** Node.js, React, Logistic Regression  
 
 ---
 
 ### ⚡ EV Battery Monitoring System  
-Real-time monitoring system for EV battery telemetry and alert generation.
-
+Real-time EV telemetry monitoring with alert generation.  
 **Tech:** Node.js, PostgreSQL, React, Socket.IO  
 
 ---
 
 ## 🏆 Achievements
 
-- Built multiple real-world full-stack and ML projects  
-- Learning data analytics and system design  
+- Built multiple real-world full-stack & ML projects  
+- Learning Data Analytics and system design  
 - Strong focus on problem-solving and practical implementation  
 
 ---
@@ -77,31 +94,15 @@ Real-time monitoring system for EV battery telemetry and alert generation.
 
 ---
 
-## 🤝 Connect with Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/ayushi-gupta-career/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="mailto:your-email@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
 ## 💡 Motto
-> Consistency beats talent. Keep building.
+> Build real projects. Stay consistent. Keep improving.
 
 ---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 </p>
+
+---
+
+⭐ *Thanks for visiting my profile!*
