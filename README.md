@@ -1,16 +1,14 @@
-## 👩‍💻 About Me
+# 👋 Hi, I'm Aakrishya
 
-I’m Aakrishya, a passionate student who enjoys building web applications and learning modern technologies. I love turning ideas into real projects and continuously improving my programming and analytical skills.
+💻 Full-Stack Developer | 🤖 Machine Learning Enthusiast  
+🚀 Passionate about building real-world applications and solving problems with technology  
 
 ---
 
-## 🤝 Connect with Me
+## 👩‍💻 About Me
 
-I'm always open to collaborating on interesting projects.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushi-gupta-career/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+I am a dedicated student developer with a strong interest in full-stack development and machine learning.  
+I enjoy building practical applications, exploring new technologies, and continuously improving my problem-solving and analytical skills.
 
 ---
 
@@ -18,122 +16,92 @@ I'm always open to collaborating on interesting projects.
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/react-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=yellow)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-## 🎯 Featured Projects
+## 🚀 Key Projects
 
-### 🛡️ AI-Powered UPI Fraud Detection System
-**Real-Time Machine Learning Risk Scoring • Behavioural Analysis • Fraud Analytics Dashboard**
+### 🛡️ AI-Powered UPI Fraud Detection System  
+Machine learning system for detecting fraudulent transactions using behavioral analysis and real-time risk scoring.
 
-A complete end-to-end fraud detection system that simulates real-world banking fraud engines. It analyzes transaction patterns such as timing, frequency, device changes, and behavioral anomalies to classify transactions as **ALLOW, FLAG, or BLOCK**.
-
-🔹 **Key Highlights**
-- Real-time fraud prediction engine  
-- Behavioral & pattern-based risk analysis  
-- SQLite-based transaction logging  
-- Interactive analytics dashboard  
-- REST API for prediction  
-
-🔹 **Tech Stack**
-- **Backend:** Python, Flask, SQLite  
-- **Frontend:** HTML, Bootstrap, Chart.js, Jinja2  
-- **ML:** RandomForestClassifier, Scikit-learn, Pandas, NumPy  
+**Tech:** Python, Flask, Scikit-learn, Pandas, NumPy, SQLite  
 
 ---
 
-### 🤖 AI Code Reviewer
-A full-stack application that reviews GitHub pull requests and provides structured, AI-generated feedback including summary, score, issues, and improvement suggestions.
+### 🤖 AI Code Reviewer  
+Full-stack application that analyzes GitHub pull requests and generates AI-based code reviews.
 
-🔹 **Key Highlights**
-- GitHub OAuth & token-based authentication  
-- Pull request analysis & code review automation  
-- AI-generated insights (score, metrics, verdict)  
-- Webhook-based auto review system  
-- Local review mode (no API required)  
-
-🔹 **Tech Stack**
-- **Backend:** Node.js, Express, Octokit, Axios  
-- **Frontend:** React, Vite, React Router  
-- **AI:** LLM-based review engine  
+**Tech:** Node.js, Express, React, Vite, LLM  
 
 ---
 
-### 📱 Smartphone Addiction ML System
-A full-stack machine learning project that analyzes smartphone usage behavior and predicts addiction risk with explainable insights and dashboard visualization.
+### 📱 Smartphone Addiction ML System  
+Predicts addiction risk based on user behavior with explainable insights and dashboard visualization.
 
-🔹 **Key Highlights**
-- Predicts addiction probability and risk level  
-- Explainable AI (top contributing factors)  
-- Interactive dashboard with charts & analytics  
-- Custom logistic regression model implementation  
-- Demo profiles for presentation and analysis  
-
-🔹 **Tech Stack**
-- **Backend:** Node.js, Express  
-- **Frontend:** React, Vite, Recharts  
-- **ML:** Logistic Regression (custom JS implementation)  
+**Tech:** Node.js, Express, React, Logistic Regression  
 
 ---
 
-### ⚡ VoltGuard EV Battery Monitoring System
-A production-style EV battery monitoring system that tracks telemetry, detects anomalies, and generates real-time alerts for battery health and safety.
+### ⚡ EV Battery Monitoring System  
+Real-time monitoring system for EV battery telemetry and alert generation.
 
-🔹 **Key Highlights**
-- Real-time telemetry ingestion & monitoring  
-- Rule-based alert engine (SOC, temperature, voltage)  
-- JWT authentication & role-based access  
-- Live dashboard updates using Socket.IO  
-- PostgreSQL-based scalable backend  
-
-🔹 **Tech Stack**
-- **Backend:** Node.js, Express, Prisma, PostgreSQL  
-- **Frontend:** React, TypeScript, Vite  
-- **Realtime:** Socket.IO  
-- **Infra:** Docker  
+**Tech:** Node.js, PostgreSQL, React, Socket.IO  
 
 ---
 
 ## 🏆 Achievements
 
-🎯 Built multiple real-world projects  
-📊 Learning Data Analytics and improving analytical skills  
-💻 Continuously improving coding and problem-solving skills  
+- Built multiple real-world full-stack and ML projects  
+- Learning data analytics and system design  
+- Strong focus on problem-solving and practical implementation  
 
 ---
 
 ## 📊 GitHub Stats
 
-<img alt="Aakrishya Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ayushi-gupta1&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true" height="192px"/>
-
-<br/>
-
-<img alt="Aakrishya Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ayushi-gupta1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<p align="center">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ayushi-gupta1&show_icons=true&theme=react&hide_border=true" height="170"/>
+</p>
 
 ---
 
-## 🔗 Links
-
-[![LinkedIn](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ayushi-gupta-career/)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ayushi-gupta1)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:your-email@gmail.com)
-
----
-
-**Made with ❤️ by Aakrishya**
+## 🤝 Connect with Me
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+
+<a href="https://www.linkedin.com/in/ayushi-gupta-career/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:your-email@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 💡 Motto
+> Consistency beats talent. Keep building.
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 </p>
