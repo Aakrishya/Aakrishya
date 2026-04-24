@@ -237,6 +237,7 @@ me.say_hi()
 
 <br/><br/>
 
+<!-- Activity Graph -->
 <a href="https://github.com/Aakrishya">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aakrishya&bg_color=0D1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&hide_border=true" width="98%"/>
 </a>
@@ -250,25 +251,16 @@ me.say_hi()
 <!-- ═══════════════════════════════════════════ -->
 
 ## 🐍 Contribution Snake
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Aakrishya
-          outputs: dist/github-contribution-grid-snake-dark.svg
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aakrishya/Aakrishya/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aakrishya/Aakrishya/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Aakrishya/Aakrishya/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+---
 
 <!-- ═══════════════════════════════════════════ -->
 <!--           ANIMATED TROPHIES                -->
@@ -277,7 +269,7 @@ jobs:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aakrishya&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Aakrishya&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="98%"/>
 </div>
 
 ---
@@ -313,6 +305,10 @@ jobs:
 </div>
 
 ---
+
+<!-- ═══════════════════════════════════════════ -->
+<!--               FOOTER                       -->
+<!-- ═══════════════════════════════════════════ -->
 
 <div align="center">
 
