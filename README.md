@@ -1,32 +1,38 @@
-# 👋 Hi, I'm Aakrishya
+<h1 align="center">Hi 👋, I'm Aakrishya</h1>
+
+<h3 align="center">
+🚀 Full-Stack Developer | 🤖 Machine Learning Enthusiast | 💡 Problem Solver
+</h3>
 
 <p align="center">
-💻 Full-Stack Developer | 🤖 ML Enthusiast | 🚀 Building Real-World Projects
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&lines=Full+Stack+Developer;Machine+Learning+Projects;Building+Real+World+Apps;Always+Learning+New+Tech" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-I’m Aakrishya, a passionate student who enjoys building web applications and learning modern technologies.  
-I love turning ideas into real projects and continuously improving my programming and analytical skills.
+- 🎓 Passionate student focused on **development + machine learning**
+- 💻 Building real-world applications with practical impact  
+- 📊 Exploring **data analytics and intelligent systems**  
+- 🚀 Always learning, improving, and experimenting with new technologies  
 
 ---
 
-## 🤝 Connect with Me
+## 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/ayushi-gupta-career/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Aakrishya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="mailto:your-email@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -35,67 +41,60 @@ I love turning ideas into real projects and continuously improving my programmin
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<p align="center">
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=yellow)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,nodejs,react,git,github" />
 
-</div>
+</p>
 
 ---
 
-## 🚀 Key Projects
+## 🚀 Featured Projects
 
-### 🛡️ AI-Powered UPI Fraud Detection System  
-ML-based fraud detection using behavioral patterns and real-time risk scoring.  
-**Tech:** Python, Flask, Scikit-learn, SQLite  
-
----
-
-### 🤖 AI Code Reviewer  
-Full-stack app that analyzes GitHub PRs and generates AI-based feedback.  
-**Tech:** Node.js, Express, React  
+### 🛡️ AI-Powered UPI Fraud Detection System
+> Real-time fraud detection using ML and behavioral analysis  
+⚙️ **Python • Flask • Scikit-learn • SQLite**
 
 ---
 
-### 📱 Smartphone Addiction ML System  
-Predicts addiction risk with explainable insights and dashboard.  
-**Tech:** Node.js, React, Logistic Regression  
+### 🤖 AI Code Reviewer
+> AI-powered GitHub PR review system with automated insights  
+⚙️ **Node.js • Express • React • LLM**
 
 ---
 
-### ⚡ EV Battery Monitoring System  
-Real-time EV telemetry monitoring with alert generation.  
-**Tech:** Node.js, PostgreSQL, React, Socket.IO  
+### 📱 Smartphone Addiction ML System
+> Predicts addiction risk using behavioral data and ML models  
+⚙️ **Node.js • React • Logistic Regression**
 
 ---
 
-## 🏆 Achievements
-
-- Built multiple real-world full-stack & ML projects  
-- Learning Data Analytics and system design  
-- Strong focus on problem-solving and practical implementation  
+### ⚡ EV Battery Monitoring System
+> Real-time telemetry monitoring with alerts and dashboard  
+⚙️ **Node.js • PostgreSQL • React • Socket.IO**
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ayushi-gupta1&show_icons=true&theme=react&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=ayushi-gupta1&theme=radical&hide_border=true" height="160"/>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ayushi-gupta1&show_icons=true&theme=radical&hide_border=true" height="160"/>
 </p>
 
 ---
 
+## 🧠 Current Focus
+
+- 🔍 Building AI-powered applications  
+- 📈 Learning Data Analytics & System Design  
+- ⚡ Improving problem-solving skills  
+
+---
+
 ## 💡 Motto
-> Build real projects. Stay consistent. Keep improving.
+
+> "Consistency + Real Projects = Success"
 
 ---
 
@@ -105,4 +104,4 @@ Real-time EV telemetry monitoring with alert generation.
 
 ---
 
-⭐ *Thanks for visiting my profile!*
+<h3 align="center">⭐ Thanks for visiting my profile!</h3>
