@@ -7,25 +7,25 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:1a1040,60:302b63,100:24243e&height=280&section=header&text=Aakrishya%20Mishra&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20ML%20Practitioner&descAlignY=58&descAlign=50&descColor=c4b5fd&descSize=20" />
 
 <!-- ═══════════════════════════════════════════ -->
-<!--           WORKING TYPING ANIMATION          -->
+<!--        TYPING ANIMATION (RELIABLE)         -->
 <!-- ═══════════════════════════════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=false&width=700&height=50&lines=🧠+Building+Intelligent+AI+Systems;🔍+ML+Engineer+%7C+Full+Stack+Dev+%7C+LLMs;⚡+Turning+Raw+Data+into+Smart+Decisions;🚀+KIIT+University+%7C+Open+to+Collaborate;🛡️+Fraud+Detection+%7C+Real-time+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Building+Intelligent+AI+Systems+%F0%9F%A7%A0;ML+Engineer+%7C+Full+Stack+Dev+%7C+LLMs+%F0%9F%94%8D;Turning+Raw+Data+into+Smart+Decisions+%E2%9A%A1;KIIT+University+%7C+Open+to+Collaborate+%F0%9F%9A%80;Fraud+Detection+%7C+Real-time+Systems+%F0%9F%9B%A1%EF%B8%8F)](https://git.io/typing-svg)
 
 <br/>
 
 <!-- ═══════════════════════════════════════════ -->
-<!--              ANIMATED BADGES               -->
+<!--              PROFILE BADGES                -->
 <!-- ═══════════════════════════════════════════ -->
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Aakrishya&label=👁️+Profile+Views&color=7c3aed&style=for-the-badge)](https://github.com/Aakrishya)
-[![GitHub followers](https://img.shields.io/github/followers/Aakrishya?label=🤝+Followers&style=for-the-badge&color=7c3aed&labelColor=1a1040)](https://github.com/Aakrishya)
-[![Open to Work](https://img.shields.io/badge/🚀+Status-Open%20to%20Collaborate-a78bfa?style=for-the-badge&labelColor=1a1040)](https://www.linkedin.com/in/aakrishyamishra)
+[![Profile Views](https://komarev.com/ghpvc/?username=Aakrishya&label=Profile+Views&color=7c3aed&style=for-the-badge)](https://github.com/Aakrishya)
+[![GitHub followers](https://img.shields.io/github/followers/Aakrishya?label=Followers&style=for-the-badge&color=7c3aed&labelColor=1a1040)](https://github.com/Aakrishya)
+[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Collaborate-a78bfa?style=for-the-badge&labelColor=1a1040)](https://www.linkedin.com/in/aakrishyamishra)
 
 <br/><br/>
 
 <!-- ═══════════════════════════════════════════ -->
-<!--         ANIMATED SKILL ICONS ROW           -->
+<!--         SKILL ICONS ROW (RELIABLE)         -->
 <!-- ═══════════════════════════════════════════ -->
 
 <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,flask,tensorflow,postgres,git,github,vscode&theme=dark&perline=10" />
@@ -38,7 +38,7 @@
 <!--              ABOUT ME SECTION              -->
 <!-- ═══════════════════════════════════════════ -->
 
-<img align="right" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd5NTZ2eTN6aGt5Y3BodXA2aXdrd25uYXFxaGhxY2JscTFtZjNobiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="370" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ## 👨‍💻 About Me
 
@@ -103,7 +103,7 @@ me.say_hi()
 ---
 
 <!-- ═══════════════════════════════════════════ -->
-<!--              ANIMATED TECH STACK           -->
+<!--              TECH STACK                    -->
 <!-- ═══════════════════════════════════════════ -->
 
 ## 🛠️ Tech Stack
@@ -151,7 +151,7 @@ me.say_hi()
     <td width="50%" valign="top">
       <h3 align="center">🛡️ AI-Powered UPI Fraud Detection</h3>
       <div align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJ6aGl5dXQ1cWVkYXZlOGtjbjFxMHpmenV6Ym93NmlubGZleDZjdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="100%" height="150" style="border-radius:8px;object-fit:cover;"/>
+        <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="100%" height="160" />
       </div>
       <br/>
       <p>Real-time fraud detection engine using ML and behavioral analysis. Identifies suspicious UPI transactions with high precision using anomaly detection algorithms.</p>
@@ -166,7 +166,7 @@ me.say_hi()
     <td width="50%" valign="top">
       <h3 align="center">🤖 AI Code Reviewer</h3>
       <div align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXFiNGlyazBuaWZhdGVxcm5ubTFtNWVhMGN4M3Jic3g4cHlldW5zMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="100%" height="150" style="border-radius:8px;object-fit:cover;"/>
+        <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" height="160" />
       </div>
       <br/>
       <p>Automated GitHub PR review system powered by LLMs. Delivers intelligent code insights, bug detection & best practice suggestions directly inside pull requests.</p>
@@ -183,7 +183,7 @@ me.say_hi()
     <td width="50%" valign="top">
       <h3 align="center">📱 Smartphone Addiction ML System</h3>
       <div align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ZsY3kwb29obDduZHQ3eWM0eTZncGplcGw4Y3F1NDloaHJrcjBqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%" height="150" style="border-radius:8px;object-fit:cover;"/>
+        <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%" height="160" />
       </div>
       <br/>
       <p>Predicts smartphone addiction risk from behavioral data using machine learning. Helps users visualize digital habits through a clean analytics dashboard.</p>
@@ -197,7 +197,7 @@ me.say_hi()
     <td width="50%" valign="top">
       <h3 align="center">⚡ EV Battery Monitoring System</h3>
       <div align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTlid2ZqNDJ2bHJuOHBxaGxhaTJkZXhrMHN5YmFnOWNodGZ3OXhncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="150" style="border-radius:8px;object-fit:cover;"/>
+        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="160" />
       </div>
       <br/>
       <p>Real-time telemetry monitoring for EV batteries with live alerts and analytics. Uses WebSockets for instant data streaming, health reporting & threshold-based alerting.</p>
@@ -237,7 +237,6 @@ me.say_hi()
 
 <br/><br/>
 
-<!-- Activity Graph -->
 <a href="https://github.com/Aakrishya">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aakrishya&bg_color=0D1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&hide_border=true" width="98%"/>
 </a>
@@ -246,30 +245,68 @@ me.say_hi()
 
 ---
 
-<!-- ═══════════════════════════════════════════ -->
-<!--           SNAKE CONTRIBUTION               -->
-<!-- ═══════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--   🐍 SNAKE — PASTE snake.yml WORKFLOW FIRST, THEN RUN IT  -->
+<!--   After workflow runs once, this image will appear & move  -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aakrishya/Aakrishya/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aakrishya/Aakrishya/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Aakrishya/Aakrishya/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
+
+> ⚡ **Setup required once:** Add `snake.yml` workflow → go to **Actions tab** → click **Run workflow**. Snake appears within 60 seconds!
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Aakrishya/Aakrishya/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Aakrishya/Aakrishya/output/github-contribution-grid-snake.svg" />
+  <img alt="🐍 contribution snake animation"
+    src="https://raw.githubusercontent.com/Aakrishya/Aakrishya/output/github-contribution-grid-snake-dark.svg"
+    width="100%" />
+</picture>
+
 </div>
 
 ---
 
 <!-- ═══════════════════════════════════════════ -->
-<!--           ANIMATED TROPHIES                -->
+<!--     🏆 ACHIEVEMENTS (ALWAYS WORKS)         -->
 <!-- ═══════════════════════════════════════════ -->
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Highlights
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aakrishya&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="98%"/>
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/🛡️-AI%20Fraud%20Detection-7c3aed?style=for-the-badge&labelColor=1a1040" /><br/>
+      <sub>Real-time ML System</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/🤖-LLM%20Code%20Reviewer-7c3aed?style=for-the-badge&labelColor=1a1040" /><br/>
+      <sub>AI-Powered Dev Tool</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/⚡-EV%20Monitoring-7c3aed?style=for-the-badge&labelColor=1a1040" /><br/>
+      <sub>Real-time WebSocket App</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/📱-ML%20Addiction%20Model-7c3aed?style=for-the-badge&labelColor=1a1040" /><br/>
+      <sub>Behavioral Analytics</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+![Python](https://img.shields.io/badge/Python-Expert-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![ML](https://img.shields.io/badge/Machine%20Learning-Practitioner-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![FullStack](https://img.shields.io/badge/Full%20Stack-Developer-339933?style=flat-square&logo=node.js&logoColor=white)
+![AI](https://img.shields.io/badge/AI%20%2F%20LLM-Builder-412991?style=flat-square&logo=openai&logoColor=white)
+![KIIT](https://img.shields.io/badge/KIIT-University-c4b5fd?style=flat-square&logo=graduation-cap&logoColor=white)
+
 </div>
 
 ---
@@ -283,24 +320,22 @@ me.say_hi()
 <div align="center">
 
 <a href="https://www.linkedin.com/in/aakrishyamishra" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/Aakrishya" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;&nbsp;
 <a href="mailto:2306247@kiit.ac.in" target="_blank">
-  <img src="https://img.shields.io/badge/KIIT%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
+  <img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"/>
-&nbsp;
-<em><b>I love connecting with amazing people.</b> Feel free to say hi — whether it's a project, internship, or just a tech chat! 😊</em>
-&nbsp;
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"/>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="36"/>
+&nbsp; <em><b>I love connecting with amazing people.</b> Feel free to say hi — project, internship, or just a tech chat! 😊</em> &nbsp;
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="36"/>
 
 </div>
 
@@ -322,9 +357,9 @@ me.say_hi()
 
 <br/>
 
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%"/>
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="18%"/>
 
-<br/>
+<br/><br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer"/>
 
