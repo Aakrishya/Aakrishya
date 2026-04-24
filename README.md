@@ -250,12 +250,25 @@ me.say_hi()
 <!-- ═══════════════════════════════════════════ -->
 
 ## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Aakrishya/Aakrishya/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
-</div>
-
----
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Aakrishya
+          outputs: dist/github-contribution-grid-snake-dark.svg
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 <!-- ═══════════════════════════════════════════ -->
 <!--           ANIMATED TROPHIES                -->
