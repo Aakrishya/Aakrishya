@@ -1,37 +1,76 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aakrishya&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20ML%20Enthusiast&descAlignY=60&descAlign=50&descColor=a78bfa" />
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Aakrishya%20Mishra&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20ML%20Practitioner&descAlignY=60&descAlign=50&descColor=a78bfa" />
 
-<!-- Typing SVG -->
+<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+%F0%9F%A7%A0;ML+%7C+AI+%7C+Full+Stack+Developer;Turning+Data+into+Decisions+%F0%9F%93%8A;Open+to+Collaborate+%26+Innovate+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=🧠+Building+Intelligent+Systems+from+Scratch;🔍+ML+%7C+AI+%7C+Real-time+Systems+%7C+LLMs;⚡+Turning+Raw+Data+into+Smart+Decisions;🚀+Student+at+KIIT+University+%7C+Open+to+Collaborate" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- Profile Views + Followers -->
+<!-- Badges Row -->
 ![Profile Views](https://komarev.com/ghpvc/?username=aakrishya&label=Profile+Views&color=7c3aed&style=flat-square)
 [![GitHub followers](https://img.shields.io/github/followers/aakrishya?label=Followers&style=flat-square&color=7c3aed)](https://github.com/aakrishya)
+![Open to Work](https://img.shields.io/badge/Open%20to-Collaborate-a78bfa?style=flat-square&logo=github)
 
 </div>
 
 ---
 
-## 🧠 About Me
+<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+
+## 👨‍💻 About Me
+
+&nbsp;
+
+🎓 &nbsp; **B.Tech Student** at **KIIT University**, Bhubaneswar
+
+🧠 &nbsp; Passionate about **AI/ML**, building systems that solve real problems
+
+🛡️ &nbsp; Currently working on **intelligent fraud detection** and **LLM-powered tools**
+
+⚡ &nbsp; Love building end-to-end projects — from ML models to full-stack dashboards
+
+🔭 &nbsp; Exploring **real-time systems**, **behavioral analytics**, and **AI automation**
+
+💬 &nbsp; Ask me about **Python, Flask, Node.js, ML pipelines, or REST APIs**
+
+📫 &nbsp; Reach me at **[2306247@kiit.ac.in](mailto:2306247@kiit.ac.in)**
+
+🤝 &nbsp; Open to **internships, collaborations & open-source contributions**
+
+&nbsp;
+
+---
+
+## 🧠 Developer DNA
 
 ```python
-class Aakrishya:
+class AakrishyaMishra:
+
     def __init__(self):
-        self.name       = "Aakrishya"
-        self.role       = ["AI Engineer", "Full Stack Developer", "ML Practitioner"]
-        self.languages  = ["Python", "JavaScript", "Node.js"]
-        self.interests  = ["AI/ML", "Fraud Detection", "Real-time Systems", "LLMs"]
-        self.currently  = "Building AI-powered products that actually matter"
-        self.open_to    = "Collaborations, Projects & Opportunities"
+        self.name        = "Aakrishya Mishra"
+        self.university  = "KIIT University, Bhubaneswar"
+        self.roles       = ["AI Engineer", "Full Stack Developer", "ML Practitioner"]
+        self.tech        = {
+            "languages" : ["Python", "JavaScript", "SQL"],
+            "ai_ml"     : ["Scikit-learn", "TensorFlow", "Logistic Regression", "LLMs"],
+            "backend"   : ["Flask", "Node.js", "Express.js"],
+            "frontend"  : ["React", "HTML", "CSS"],
+            "databases" : ["PostgreSQL", "SQLite", "MySQL"],
+            "tools"     : ["Git", "GitHub", "Socket.IO", "VS Code"],
+        }
+        self.building    = "AI-powered products that actually create impact"
+        self.email       = "2306247@kiit.ac.in"
+        self.linkedin    = "linkedin.com/in/aakrishyamishra"
 
     def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing together 🚀")
+        print("Thanks for visiting! Let's build something extraordinary. 🚀")
+
+me = AakrishyaMishra()
+me.say_hi()
 ```
 
 ---
@@ -40,26 +79,28 @@ class Aakrishya:
 
 <div align="center">
 
-**Languages**
+**⌨️ Languages**
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**AI / ML**
+**🤖 AI / Machine Learning**
 
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/LLM%20%2F%20AI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-**Backend & Frontend**
+**🖥️ Backend & Frontend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-**Databases & Tools**
+**🗄️ Databases & DevTools**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -78,48 +119,48 @@ class Aakrishya:
   <tr>
     <td width="50%" valign="top">
       <h3>🛡️ AI-Powered UPI Fraud Detection</h3>
-      <p>Real-time fraud detection engine using ML and behavioral analysis. Identifies suspicious transactions with high precision using pattern recognition and anomaly detection.</p>
+      <p>Real-time fraud detection engine using ML and behavioral analysis. Identifies suspicious transactions with high precision using pattern recognition and anomaly detection algorithms.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
         <img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white"/>
         <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
         <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/>
       </p>
-      <p>✅ Real-time detection &nbsp;&nbsp; ✅ Behavioral Analysis &nbsp;&nbsp; ✅ ML Pipeline</p>
+      <p>✅ Real-time Detection &nbsp; ✅ Behavioral Analysis &nbsp; ✅ ML Pipeline</p>
     </td>
     <td width="50%" valign="top">
       <h3>🤖 AI Code Reviewer</h3>
-      <p>Automated GitHub PR review system powered by LLMs. Provides intelligent code insights, bug detection, and best practice suggestions directly in pull requests.</p>
+      <p>Automated GitHub PR review system powered by LLMs. Provides intelligent code insights, bug detection, and best practice suggestions directly in pull requests — saving developer review time.</p>
       <p>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white"/>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/LLM-412991?style=flat-square&logo=openai&logoColor=white"/>
       </p>
-      <p>✅ Automated PR Reviews &nbsp;&nbsp; ✅ LLM Integration &nbsp;&nbsp; ✅ GitHub API</p>
+      <p>✅ Automated PR Reviews &nbsp; ✅ LLM Integration &nbsp; ✅ GitHub API</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>📱 Smartphone Addiction ML System</h3>
-      <p>Predicts smartphone addiction risk using behavioral data and ML models. Helps users understand and manage their digital habits through data-driven insights.</p>
+      <p>Predicts smartphone addiction risk from behavioral data using machine learning. Helps users visualize and understand digital habits through a clean analytics dashboard.</p>
       <p>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/Logistic%20Regression-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
       </p>
-      <p>✅ Risk Prediction &nbsp;&nbsp; ✅ Behavioral Modeling &nbsp;&nbsp; ✅ Dashboard</p>
+      <p>✅ Risk Prediction &nbsp; ✅ Behavioral Modeling &nbsp; ✅ Dashboard</p>
     </td>
     <td width="50%" valign="top">
       <h3>⚡ EV Battery Monitoring System</h3>
-      <p>Real-time telemetry monitoring for EV batteries with live alerts and analytics dashboard. Uses WebSockets for instant data streaming and health reporting.</p>
+      <p>Real-time telemetry monitoring for EV batteries with live alerts and analytics. Uses WebSockets for instant data streaming, health status reporting, and threshold-based alerting.</p>
       <p>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white"/>
       </p>
-      <p>✅ Real-time Telemetry &nbsp;&nbsp; ✅ Smart Alerts &nbsp;&nbsp; ✅ Live Dashboard</p>
+      <p>✅ Real-time Telemetry &nbsp; ✅ Smart Alerts &nbsp; ✅ Live Dashboard</p>
     </td>
   </tr>
 </table>
@@ -159,9 +200,21 @@ class Aakrishya:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/aakrishyamishra)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aakrishya)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-2306247@kiit.ac.in)
+<a href="https://www.linkedin.com/in/aakrishyamishra">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/aakrishya">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:2306247@kiit.ac.in">
+  <img src="https://img.shields.io/badge/KIIT%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+> 💬 *Feel free to reach out — whether it's a project idea, internship opportunity, or just a tech chat!*
 
 </div>
 
@@ -171,6 +224,10 @@ class Aakrishya:
 
 ### 💡 *"Code is not just syntax — it's the language of solutions."*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+<br/>
+
+**— Aakrishya Mishra · KIIT University · AI & Full Stack Developer**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer"/>
 
 </div>
