@@ -18,8 +18,8 @@
 <!--              ANIMATED BADGES               -->
 <!-- ═══════════════════════════════════════════ -->
 
-[![Profile Views](https://komarev.com/ghpvc/?username=aakrishya&label=👁️+Profile+Views&color=7c3aed&style=for-the-badge)](https://github.com/aakrishya)
-[![GitHub followers](https://img.shields.io/github/followers/aakrishya?label=🤝+Followers&style=for-the-badge&color=7c3aed&labelColor=1a1040)](https://github.com/aakrishya)
+[![Profile Views](https://komarev.com/ghpvc/?username=Aakrishya&label=👁️+Profile+Views&color=7c3aed&style=for-the-badge)](https://github.com/Aakrishya)
+[![GitHub followers](https://img.shields.io/github/followers/Aakrishya?label=🤝+Followers&style=for-the-badge&color=7c3aed&labelColor=1a1040)](https://github.com/Aakrishya)
 [![Open to Work](https://img.shields.io/badge/🚀+Status-Open%20to%20Collaborate-a78bfa?style=for-the-badge&labelColor=1a1040)](https://www.linkedin.com/in/aakrishyamishra)
 
 <br/><br/>
@@ -222,24 +222,23 @@ me.say_hi()
 
 <div align="center">
 
-<a href="https://github.com/aakrishya">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakrishya&theme=tokyonight&hide_border=true&background=0D1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c4b5fd&dates=8b5cf6" width="49%"/>
+<a href="https://github.com/Aakrishya">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aakrishya&theme=tokyonight&hide_border=true&background=0D1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c4b5fd&dates=8b5cf6" width="49%"/>
 </a>
-<a href="https://github.com/aakrishya">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=aakrishya&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd" width="49%"/>
+<a href="https://github.com/Aakrishya">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Aakrishya&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd" width="49%"/>
 </a>
 
 <br/>
 
-<a href="https://github.com/aakrishya">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakrishya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&langs_count=8&text_color=c4b5fd" width="49%"/>
+<a href="https://github.com/Aakrishya">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakrishya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&langs_count=8&text_color=c4b5fd" width="49%"/>
 </a>
 
 <br/><br/>
 
-<!-- Activity Graph -->
-<a href="https://github.com/aakrishya">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aakrishya&bg_color=0D1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&hide_border=true" width="98%"/>
+<a href="https://github.com/Aakrishya">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aakrishya&bg_color=0D1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&hide_border=true" width="98%"/>
 </a>
 
 </div>
@@ -253,7 +252,7 @@ me.say_hi()
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Aakrishya/Aakrishya/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
 </div>
 
 ---
@@ -265,7 +264,7 @@ me.say_hi()
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aakrishya&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Aakrishya&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
 </div>
 
 ---
@@ -282,7 +281,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/aakrishya" target="_blank">
+<a href="https://github.com/Aakrishya" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
 </a>
 &nbsp;&nbsp;
@@ -301,10 +300,6 @@ me.say_hi()
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════ -->
-<!--               FOOTER                       -->
-<!-- ═══════════════════════════════════════════ -->
 
 <div align="center">
 
