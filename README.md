@@ -4,13 +4,13 @@
 <!--              ANIMATED HEADER               -->
 <!-- ═══════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:1a1040,60:302b63,100:24243e&height=280&section=header&text=Aakrishya%20Mishra&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20ML%20Practitioner&descAlignY=58&descAlign=50&descColor=c4b5fd&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:1a1040,60:302b63,100:24243e&height=280&section=header&text=Aakrishya%20Mishra&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Java%20Full%20Stack%20Developer%20%E2%80%A2%20Spring%20%26%20Hibernate%20%E2%80%A2%20ML%20Enthusiast&descAlignY=58&descAlign=50&descColor=c4b5fd&descSize=20" />
 
 <!-- ═══════════════════════════════════════════ -->
 <!--        TYPING ANIMATION (RELIABLE)         -->
 <!-- ═══════════════════════════════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Building+Intelligent+AI+Systems+%F0%9F%A7%A0;ML+Engineer+%7C+Full+Stack+Dev+%7C+LLMs+%F0%9F%94%8D;Turning+Raw+Data+into+Smart+Decisions+%E2%9A%A1;KIIT+University+%7C+Open+to+Collaborate+%F0%9F%9A%80;Fraud+Detection+%7C+Real-time+Systems+%F0%9F%9B%A1%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Building+Robust+Java+Applications+%E2%98%95;Java+Full+Stack+%7C+Spring+%7C+Hibernate+%F0%9F%8C%B1;Core+Java+%7C+JDBC+%7C+REST+APIs+%E2%9A%A1;Machine+Learning+Enthusiast+%F0%9F%A7%A0;KIIT+University+%7C+Open+to+Collaborate+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
@@ -28,7 +28,7 @@
 <!--         SKILL ICONS ROW (RELIABLE)         -->
 <!-- ═══════════════════════════════════════════ -->
 
-<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,flask,tensorflow,postgres,git,github,vscode&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,html,css,js,mysql,postgres,sqlite,python,git,github,vscode&theme=dark&perline=13" />
 
 </div>
 
@@ -46,15 +46,15 @@
 
 🎓 &nbsp; **B.Tech Student** at **KIIT University**, Bhubaneswar
 
-🧠 &nbsp; Passionate about **AI/ML** — building systems that solve real problems
+☕ &nbsp; **Java Full Stack Developer** — Core Java, Spring Framework, Hibernate & JDBC
 
-🛡️ &nbsp; Currently working on **intelligent fraud detection** & **LLM-powered tools**
+🧠 &nbsp; Knowledge of **Machine Learning** — building smart, data-driven solutions
 
-⚡ &nbsp; Love building **end-to-end projects** — from ML models to full-stack dashboards
+⚡ &nbsp; Love building **end-to-end projects** — from backend services to complete applications
 
-🔭 &nbsp; Exploring **real-time systems**, **behavioral analytics** & **AI automation**
+🔭 &nbsp; Exploring **enterprise Java**, **REST APIs** & **AI-powered applications**
 
-💬 &nbsp; Ask me about **Python, Flask, Node.js, ML pipelines, or REST APIs**
+💬 &nbsp; Ask me about **Java, Spring, Hibernate, JDBC, or ML basics**
 
 📫 &nbsp; Reach me at **[2306247@kiit.ac.in](mailto:2306247@kiit.ac.in)**
 
@@ -72,32 +72,34 @@
 
 ## 🧬 Developer DNA
 
-```python
-class AakrishyaMishra:
+```java
+public class AakrishyaMishra {
 
-    def __init__(self):
-        self.name        = "Aakrishya Mishra"
-        self.university  = "KIIT University, Bhubaneswar"
-        self.roles       = ["AI Engineer", "Full Stack Developer", "ML Practitioner"]
-        self.tech        = {
-            "languages"  : ["Python", "JavaScript", "SQL"],
-            "ai_ml"      : ["Scikit-learn", "TensorFlow", "Logistic Regression", "LLMs"],
-            "backend"    : ["Flask", "Node.js", "Express.js"],
-            "frontend"   : ["React", "HTML5", "CSS3"],
-            "databases"  : ["PostgreSQL", "SQLite", "MySQL"],
-            "tools"      : ["Git", "GitHub", "Socket.IO", "VS Code"],
-        }
-        self.building    = "AI-powered products that actually create impact 🚀"
-        self.contact     = { "email": "2306247@kiit.ac.in",
-                             "linkedin": "linkedin.com/in/aakrishyamishra" }
-        self.fun_fact    = "I debug with coffee ☕ and deploy with confidence 🎯"
+    String name       = "Aakrishya Mishra";
+    String university = "KIIT University, Bhubaneswar";
+    String[] roles    = { "Java Full Stack Developer", "ML Enthusiast" };
 
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something extraordinary together. 🌟")
+    Map<String, List<String>> tech = Map.of(
+        "languages", List.of("Java", "SQL", "Python", "JavaScript"),
+        "java",      List.of("Core Java", "JDBC", "Spring Framework", "Hibernate"),
+        "frontend",  List.of("HTML5", "CSS3", "JavaScript"),
+        "databases", List.of("PostgreSQL", "SQLite", "MySQL"),
+        "ml",        List.of("Machine Learning", "Scikit-learn", "NumPy", "Pandas"),
+        "tools",     List.of("Git", "GitHub", "VS Code")
+    );
 
-me = AakrishyaMishra()
-me.say_hi()
-# OUTPUT → Thanks for visiting! Let's build something extraordinary together. 🌟
+    String building = "Scalable Java applications that actually create impact 🚀";
+    String funFact  = "I debug with coffee ☕ and deploy with confidence 🎯";
+
+    public void sayHi() {
+        System.out.println("Thanks for visiting! Let's build something extraordinary together. 🌟");
+    }
+
+    public static void main(String[] args) {
+        new AakrishyaMishra().sayHi();
+        // OUTPUT → Thanks for visiting! Let's build something extraordinary together. 🌟
+    }
+}
 ```
 
 ---
@@ -110,28 +112,30 @@ me.say_hi()
 
 <div align="center">
 
-### ⌨️ Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### ☕ Java & Full Stack
+![Java](https://img.shields.io/badge/Core%20Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring%20Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=postman&logoColor=white)
 
-### 🤖 AI / Machine Learning
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🤖 Machine Learning (Knowledge)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM%20%2F%20AI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### 🖥️ Backend & Frontend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### 🗄️ Databases & DevTools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -301,10 +305,10 @@ me.say_hi()
 
 <br/>
 
-![Python](https://img.shields.io/badge/Python-Expert-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![ML](https://img.shields.io/badge/Machine%20Learning-Practitioner-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![FullStack](https://img.shields.io/badge/Full%20Stack-Developer-339933?style=flat-square&logo=node.js&logoColor=white)
-![AI](https://img.shields.io/badge/AI%20%2F%20LLM-Builder-412991?style=flat-square&logo=openai&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Full%20Stack%20Developer-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-Framework-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-ORM-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![ML](https://img.shields.io/badge/Machine%20Learning-Knowledge-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![KIIT](https://img.shields.io/badge/KIIT-University-c4b5fd?style=flat-square&logo=graduation-cap&logoColor=white)
 
 </div>
@@ -353,7 +357,7 @@ me.say_hi()
 
 <br/>
 
-**— Aakrishya Mishra · KIIT University · AI & Full Stack Developer**
+**— Aakrishya Mishra · KIIT University · Java Full Stack Developer**
 
 <br/>
 
